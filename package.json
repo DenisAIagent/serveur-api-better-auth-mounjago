@@ -13,6 +13,6 @@
     "dotenv": "^16.4.7"
   },
   "devDependencies": {
-    "vercel": "^latest"
+    "vercel": "^37.0.0"
   }
 }
